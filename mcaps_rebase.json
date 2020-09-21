@@ -1,4 +1,4 @@
-{"name":"Mcaps Rebase","logoURI":"https://www.mcaps.com/assets/XXX",
+{"name":"Mcaps Rebase","logoURI":"https://raw.githubusercontent.com/mcaps-com/assetlists/master/mcaps_logo.png",
     "keywords":["defi"],"timestamp":"2020-09-21T02:42:25.283+00:00",
         "tokens":[
             {"address":"0xE17f017475a709De58E976081eB916081ff4c9d5","chainId":1,"name":"RMPL","symbol":"RMPL","decimals":9,"logoURI":"https://1inch.exchange/assets/tokens/0xe17f017475a709de58e976081eb916081ff4c9d5.png"},
