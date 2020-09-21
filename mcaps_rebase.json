@@ -1,8 +1,10 @@
-{"name":"Mcaps Rebase","logoURI":"https://raw.githubusercontent.com/mcaps-com/assetlists/master/mcaps_logo.png",
+{   "name":"Mcaps Rebase",
+    "logoURI":"https://raw.githubusercontent.com/mcaps-com/assetlists/master/mcaps_logo.png",
+    "version":{"major":1,"minor":1,"patch":0},
     "keywords":["defi"],"timestamp":"2020-09-21T02:42:25.283+00:00",
-        "tokens":[
+    "tokens":[
             {"address":"0xE17f017475a709De58E976081eB916081ff4c9d5","chainId":1,"name":"RMPL","symbol":"RMPL","decimals":9,"logoURI":"https://1inch.exchange/assets/tokens/0xe17f017475a709de58e976081eb916081ff4c9d5.png"},
             {"address":"0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5","chainId":1,"name":"BASED","symbol":"BASED","decimals":18,"logoURI":"https://1inch.exchange/assets/tokens/0x68a118ef45063051eac49c7e647ce5ace48a68a5.png"},
             {"address":"0xD46bA6D942050d489DBd938a2C909A5d5039A161","chainId":1,"name":"Ampleforth","symbol":"AMPL","decimals":9,"logoURI":"https://1inch.exchange/assets/tokens/0xd46ba6d942050d489dbd938a2c909a5d5039a161.png"}
-        ]
+    ]
 }
